@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrRestService", "DrRestService\DrRestService.csproj", "{A287D99C-7F49-418A-91C9-BAF664BA0C40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsLib", "Records\RecordsLib.csproj", "{20C40057-34FC-4903-ABE7-A0F83D6B6B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A287D99C-7F49-418A-91C9-BAF664BA0C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A287D99C-7F49-418A-91C9-BAF664BA0C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A287D99C-7F49-418A-91C9-BAF664BA0C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C40057-34FC-4903-ABE7-A0F83D6B6B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C40057-34FC-4903-ABE7-A0F83D6B6B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C40057-34FC-4903-ABE7-A0F83D6B6B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C40057-34FC-4903-ABE7-A0F83D6B6B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
